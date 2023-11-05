@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArulSelvan-MK
-- 👀 I’m interested in UX/UI Designing and Front-End Development.
+- 👀 I’m interested in Full-Stack Development.
 - 📫 Reach me in Linkedin- https://www.linkedin.com/in/arul-selvan-2a8a6020a
 
 <!---
