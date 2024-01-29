@@ -4,7 +4,7 @@
 
   <a href="https://github.com/jameskokoska">
   <picture>
-    <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Arul%20Selvan&width=800&height=400">
+    <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Arul%20Selvan&width=900&height=200">
   </picture>
 </a>
 
